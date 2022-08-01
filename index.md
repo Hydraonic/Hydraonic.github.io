@@ -1,5 +1,4 @@
-## Hydra's Homepage
-
+## Project Hydra
 All of us at Project Hydra hope you enjoy the script
 
 ```markdown
